@@ -55,12 +55,20 @@ Thank you for considering contributing to the Laravel framework! The contributio
 
 ## Code of Conduct
 
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
+In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).![Screenshot from 2021-11-28 14-28-03](https://user-images.githubusercontent.com/50656580/143746348-3a6326ed-35ce-4e5d-9d5b-584bbe26f2c9.png)
+
 
 ## Security Vulnerabilities
 
 If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
 
-## License
+## License![Uploading Screenshot from 2021-11-28 14-27-55.png…]()
+
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+![Screenshot from 2021-11-28 14-27-38](https://user-images.githubusercontent.com/50656580/143746563-90d54bac-05e1-4d5a-b164-3d3dc7989509.png)
+![Screenshot from 2021-11-28 14-27-05](https://user-images.githubusercontent.com/50656580/143746603-efe2ea3f-dc06-4018-9aae-0714a6abf473.png)
+
+![Screenshot from 2021-11-28 14-26-28](https://user-images.githubusercontent.com/50656580/143746645-2f78dac7-7e10-4ac2-b4fa-cbadb1fadf22.png)
+![Screenshot from 2021-11-28 14-25-47](https://user-images.githubusercontent.com/50656580/143746677-33e94f50-15fb-4026-8872-0aca90cd96fb.png)
